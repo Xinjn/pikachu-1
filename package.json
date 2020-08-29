@@ -1,0 +1,11 @@
+{
+  "script": {
+    "build": "rm -rf dist && parcel build src/test.html --no-minify --pubilc-url ./"
+  },
+  "name": "pikaqu-1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Xinjn/pikachu-1.git",
+  "author": "Xinjn <422075616@qq.com>",
+  "license": "MIT"
+}
